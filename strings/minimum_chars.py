@@ -1,3 +1,8 @@
+"""
+https://www.algoexpert.io/questions/minimum-characters-for-words
+"""
+
+
 def minimumCharactersForWords(words):
     # Write your code here.
     hashMap = {}
